@@ -1,3 +1,6 @@
+<?php
+require_once('../config/config.php');
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -8,7 +11,7 @@
 <body>
 
     <button><a href="../Users/Connexion.php">Log in</a></button>
-    <button><a href="../Users/Inscription.php">Sign up</a></button>
+    <button><a href="../Users/Inscription.html">Sign up</a></button>
     
 </body>
 </html>
